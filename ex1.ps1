@@ -1,0 +1,1 @@
+﻿Write-Host "I want to learn PowerShell" -ForegroundColor Green
