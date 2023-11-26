@@ -1,0 +1,1 @@
+﻿﻿Get-Process | ?{$_.ProcessName -eq "notepad"} | Select ProcessName,Id
